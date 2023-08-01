@@ -1,3 +1,55 @@
-.head{
-    align-content:center;
+*{
+    font-size: 100%;
+    font-weight: normal;
+    margin:0;
+}
+.head >h1{
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.Contain{
+    float:right;
+}
+h1{
+    font-size: 30px;
+
+}
+.body{
+    padding-left:10%;
+    padding-right:10%;
+}
+.tab{
+    border: 8px;
+}
+.Last{
+    float:right
+}
+.word{
+    text-align: center;
+    font-size: medium;
+}
+.Name{
+    font-size: 15px;
+    font-weight: bolder;
+}
+p1{
+    font-size: 23px;
+}
+td,th,table{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+.jk{
+    border: 0;
+}
+.jk{
+    border: 0;
+}
+b,th{
+    font-weight: bold;
+}
+u{
+    font-weight: bold;
 }
