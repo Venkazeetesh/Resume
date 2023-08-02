@@ -2,6 +2,8 @@
     font-size: 100%;
     font-weight: normal;
     margin:0;
+    background-color: rgb(200, 198, 196);
+ 
 }
 .head >h1{
     text-align: center;
@@ -9,9 +11,7 @@
     font-weight: bolder;
     font-size: 30px;
 }
-.Contain{
-    float:right;
-}
+
 h1{
     font-size: 30px;
 
@@ -24,22 +24,30 @@ h1{
     border: 8px;
 }
 .Last{
-    float:right
+    float:right;
+    font-size:20px;
 }
 .word{
     text-align: center;
-    font-size: medium;
+    font-size: 20px;
 }
-.Name{
-    font-size: 15px;
+.Contain{
+    float:left;
+    font-size: 28px;
     font-weight: bolder;
 }
+.phone{
+    font-size: 20px;
+}
+
 p1{
     font-size: 23px;
 }
 td,th,table{
     border:2px solid black;
     border-collapse: collapse;
+    border-width: 3px;
+    text-align: center;
 }
 .jk{
     border: 0;
@@ -52,4 +60,25 @@ b,th{
 }
 u{
     font-weight: bold;
+}
+.address{
+    float:right;
+
+    font-size: 23px;
+}
+h1>br>u{
+    text-align: left;
+}
+.mail{
+    font-size: 23px;
+}
+p>br>{
+    font-size: 20px;
+}
+.pro{
+    font-size: 20px;
+}
+
+.exp{
+    font-size: 20px;
 }
